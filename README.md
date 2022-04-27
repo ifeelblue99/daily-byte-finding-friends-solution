@@ -10,6 +10,7 @@ Given the friendships in the office defined by friends, return the total number
 Note: Each coworker is friends with themselves (i.e.matrix[i][j] = 1 for all values where i = j)
 
 Ex: Given the following matrix friends…
+
 friends = [ [1, 1, 0], 
             [1, 1, 0], 
             [0, 0, 1] ], 
